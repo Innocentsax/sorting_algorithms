@@ -95,8 +95,6 @@ Read or watch:
   * Prints subarrays each time they are merged.
   * [103-O](./103-O): Text file containing the best, average, and worst case time complexities of the Merge Sort algorithm, one per line.
   
-[Merge sort](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF6Xh6DezHIwPITFdMeO75rbz2vtYPIwe2ag&usqp=CAU)
-
 * **8. Heap sort**
   * [104-heap_sort.c](./104-heap_sort.c): C function that sorts an array of integers in ascending order using the Heap Sort algorithm.
   * Implements the `sift-down` Heap Sort algorithm.
@@ -127,3 +125,6 @@ Read or watch:
   * [1000-sort_deck.c](./1000-sort_deck.c): C function that sorts a `deck_node_t` doubly-linked list deck of cards.
   * Assumes that there are exactly `52` elements in the doubly-linked list.
   * Orders the deck from spades to diamonds and from aces to kings.
+
+## Author
+© [INNOCENT CHARLES UDO](https://github.com/Innocentsax)
